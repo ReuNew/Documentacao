@@ -23,4 +23,7 @@
 
 # 2. Referências
 
+https://moodle.utfpr.edu.br/pluginfile.php/3039489/mod_resource/content/3/08_RS_Elicita%C3%A7%C3%A3o_e_Analise_de_Requisitos_PARTE_01.pdf
+
+
 <a href="../README.md">VOLTAR INÍCIO</a>
