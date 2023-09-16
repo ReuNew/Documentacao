@@ -12,26 +12,26 @@
 | RF06 |       O usuário deve escolher se quer usar um template ou fazer a tabela do começo                                                                                      |      Alta       |             |
 | RF07 |       O usuário deve escolher qual template ele deseja usar.                                                                                                            |      Alta       |             |
 | RF08 |       O usuário deve poder criar uma lista to-do para ele.                                                                                                              |     Alta        |             |
-| RF09 |       O usuário deve poder visualizar uma lista/tabela de suas tarefas caso ele participe de algum grupo.                                                               |                 |             |
+| RF09 |       O usuário deve poder visualizar uma lista/tabela de suas tarefas caso ele participe de algum grupo.                                                               |    Alta         |             |
 | RF10 |       O usuário deve poder incluir outros usuários a partir pelo e-mail na tabela do grupo.                                                                             |    Média        |             |
-| RF11 |       O usuário deve poder conectar suas tabelas em um algoritmo que realiza gráficos automáticamente.                                                                  |                 |             |
-| RF12 |       O usuário deve poder se comunicar com outros usuários de seu grupo por meio de um canal de mensagens.                                                             |                 |             |
-| RF13 |       O usuário deve poder exportar tabelas em formato Excel.                                                                                                           |                 |             |
-| RF14 |       O sistema deve poder realizar lembretes de tarefas do usuário.                                                                                                    |                 |             |
-| RF15 |       O usuário deve ser capaz de definir a prioridade da atividade.                                                                                                    |                 |             |
-| RF16 |       O usuário deve ser capaz de definir a situação da atividade.                                                                                                      |                 |             |
-| RF17 |       O usuário deve ser capaz de definir os participantes da atividade.                                                                                                |                 |             |
-| RF18 |       O usuário deve ser capaz de definir a data da atividade.                                                                                                          |                 |             |
-| RF19 |       O usuário deve ser capaz de definir a dificuldade da atividade.                                                                                                   |                 |             |
-| RF20 |       O usuário deve ser capaz de definir o responsável da atividade.                                                                                                   |                 |             |
-| RF21 |       O usuário deve ser capaz de enviar documento da atividade.                                                                                                        |                 |             |
-| RF22 |       O usuário deve ser capaz de colocar anotações da atividade.                                                                                                       |                 |             |
-| RF23 |       O usuário deve ser capaz de definir caracteristicas personalizadas da atividade (textos, números, etc).                                                           |                 |             |
-| RF25 |       O usuário deve poder adicionar uma subpágina fora das tabelas.                                                                                                    |                 |             |
-| RF26 |       O usuário deve poder adicionar textos, títulos, listas, colunas de textos e divisor fora das tabelas.                                                             |     Alta        |             |
-| RF27 |       O usuário deve poder adicionar arquivos (fotos, vídeos, áudio, código, arquivo) fora das tabelas.                                                                 |     Alta        |             |
-| RF28 |       O usuário deve poder adicionar datas (com calendário) fora das tabelas.                                                                                           |     Alta        |             |
-| RF24 |       O sistema deve poder realizar integração de ferramentas e aplicativos (como GitHub, Maps, PDF, OneDrive, Dropbox) fora das tabelas (parecido com com Notion).     |                 |             |
+| RF11 |       O usuário deve poder conectar suas tabelas em um algoritmo que realiza gráficos automáticamente.                                                                  |    Média        |             |
+| RF12 |       O usuário deve poder se comunicar com outros usuários de seu grupo por meio de um canal de mensagens.                                                             |    Baixa        |             |
+| RF13 |       O usuário deve poder exportar tabelas em formato Excel.                                                                                                           |    Baixa        |             |
+| RF14 |       O sistema deve poder realizar lembretes de tarefas do usuário.                                                                                                    |    Baixa        |             |
+| RF15 |       O usuário deve ser capaz de definir a prioridade da atividade.                                                                                                    |    Alta         |             |
+| RF16 |       O usuário deve ser capaz de definir a situação da atividade.                                                                                                      |    Alta         |             |
+| RF17 |       O usuário deve ser capaz de definir os participantes da atividade.                                                                                                |  Alta           |             |
+| RF18 |       O usuário deve ser capaz de definir a data da atividade.                                                                                                          |  Alta           |             |
+| RF19 |       O usuário deve ser capaz de definir a dificuldade da atividade.                                                                                                   |  Alta           |             |
+| RF20 |       O usuário deve ser capaz de definir o responsável da atividade.                                                                                                   |  Alta           |             |
+| RF21 |       O usuário deve ser capaz de enviar documento da atividade.                                                                                                        |  Alta           |             |
+| RF22 |       O usuário deve ser capaz de colocar anotações da atividade.                                                                                                       |  Alta           |             |
+| RF23 |       O usuário deve ser capaz de definir caracteristicas personalizadas da atividade (textos, números, etc).                                                           |  Alta           |             |
+| RF24 |       O usuário deve poder adicionar uma subpágina fora das tabelas.                                                                                                    |     Baixa       |             |
+| RF25 |       O usuário deve poder adicionar textos, títulos, listas, colunas de textos e divisor fora das tabelas.                                                             |     Baixa       |             |
+| RF26 |       O usuário deve poder adicionar arquivos (fotos, vídeos, áudio, código, arquivo) fora das tabelas.                                                                 |     Baixa       |             |
+| RF27 |       O usuário deve poder adicionar datas (com calendário) fora das tabelas.                                                                                           |     Baixa       |             |
+| RF28 |       O sistema deve poder realizar integração de ferramentas e aplicativos (como GitHub, Maps, PDF, OneDrive, Dropbox) fora das tabelas (parecido com com Notion).     |     Baixa       |             |
 
 
 <div style="text-align: center">
