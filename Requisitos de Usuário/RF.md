@@ -11,7 +11,7 @@
 | RF05 |       O usuário deve escolher qual tipo de tabela ele vai fazer (grupo ou individual).                                                                                  |      Alta       |      -      |
 | RF06 |       O usuário deve escolher se quer usar um template ou fazer a tabela do começo                                                                                      |      Alta       |     RF05    |
 | RF07 |       O usuário deve escolher qual template ele deseja usar.                                                                                                            |      Alta       |  RF05, RF06 |
-| RF08 |       O usuário deve poder criar uma lista to-do para ele.                                                                                                              |     Alta        |      -      |
+| RF08 |       O usuário deve poder criar uma lista to-do ou tabela para ele.                                                                                                    |     Alta        |      -      |
 | RF09 |       O usuário deve poder visualizar uma lista/tabela de suas tarefas caso ele participe de algum grupo.                                                               |    Alta         |      -      |
 | RF10 |       O usuário deve poder incluir outros usuários a partir pelo e-mail na tabela do grupo.                                                                             |    Média        |  RF06, RF07 |
 | RF11 |       O usuário deve poder conectar suas tabelas em um algoritmo que realiza gráficos automáticamente.                                                                  |    Média        |RF15, RF16, RF17, RF18, RF19, RF21|
